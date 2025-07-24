@@ -8,7 +8,6 @@
 
 - ⚡ Pure HTML + CSS — no frameworks needed
 - 🎨 Fully customizable (shapes, size, animation)
-- 🌙 Dark mode–friendly (optional)
 - 🧩 Easy to integrate into any project
 - 📱 Responsive design
 

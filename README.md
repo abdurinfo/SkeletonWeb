@@ -19,5 +19,5 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/SkeletonWeb.git
+git clone https://github.com/abdurinfo/SkeletonWeb.git
 cd SkeletonWeb
